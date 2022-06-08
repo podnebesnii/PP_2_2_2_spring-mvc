@@ -1,4 +1,4 @@
-package web.controller;
+package web.model;
 
 import java.util.ArrayList;
 import java.util.List;
